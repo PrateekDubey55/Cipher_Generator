@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CCS_Project_1</string>
+    <string name="the_unintelligible">The Unintelligible</string>
+    <string name="enter_message">Enter Message :</string>
+    <string name="ceaser_cipher">Ceaser Cipher</string>
+    <string name="affine_code">Affine Code</string>
+    <string name="enter_key">Enter Key :</string>
+    <string name="affine_cipher">Affine Cipher</string>
+    <string name="enter_multiplicative_key">Enter Multiplicative Key :</string>
+</resources>
